@@ -1,5 +1,5 @@
 
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
        title="Girl with a Pearl Earring"
