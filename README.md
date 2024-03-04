@@ -1,4 +1,4 @@
-# Hibiscus-Esculentus
+
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
