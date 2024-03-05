@@ -18,8 +18,7 @@
 # Introduction
 
 Giving the Okra a voice teehee
-<param ve-image
-manifest="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410">
+<param ve-image title="Abelmoschus Esculentus" url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410">
 
 # Basic usage
 
