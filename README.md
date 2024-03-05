@@ -20,7 +20,7 @@
 # Introduction
 Giving the Okra a voice teehee
 
-# Basic usage
+# Paragraph Two
 
 ## Image
 
