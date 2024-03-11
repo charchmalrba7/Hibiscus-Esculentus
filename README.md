@@ -55,13 +55,13 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 
 ## New Section: Second Image - Abelmoschus Esculentus
 Pisonis, Guilelmi. “Belingela, Quigombo vel Alcea Muscata, et Gangila Sive Seramum.” Medici Amstelaedamensis De India utriusque re naturali et medica libri quatuordecim, quorum contenta pagina sequens exhibet (1658)
+
 <param ve-image
-       url="https://www.biodiversitylibrary.org/pageImage/54044857"
-       title="Abelmoschus Esculentus"
-       label="Quigombo"
-       description="Image of the okra plant"
-       license="BHL Public Domain"
-       fit="contain">
+       
+       label="Quigombo" 
+       description="Image of the okra plant" 
+       license="public domain" 
+       url="https://www.biodiversitylibrary.org/pageImage/54044857">
 
 
 ## Section 3: Paragraph Seven
