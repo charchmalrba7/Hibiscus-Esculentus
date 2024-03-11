@@ -52,11 +52,11 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 
 <param ve-image 
        title="Abelmoschus Esculentus"
-       url=“https://www.biodiversitylibrary.org/pageImage/54044857”
        label=“Quigombo”
        description=“Image of the okra plant”
        license=“BHL Public Domain”
-       fit=“contain”>
+       fit=“contain”
+       url=“https://www.biodiversitylibrary.org/pageImage/54044857”>
 
 
 ## Section 3: Paragraph Seven
