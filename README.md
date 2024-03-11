@@ -53,11 +53,11 @@ New Text, Next Text, Next Text -- This may not work, but here it goes.
 Incorporate image -- hopefully it will appear below:
 <param ve-image 
        title="Abelmoschus Esculentus"
-       label=“Quigombo”
-       description=“Image of the okra plant”
-       license=“BHL Public Domain”
-       fit=“contain”
-       url=“https://www.biodiversitylibrary.org/pageImage/54044857”>
+       label="Quigombo"
+       description="Image of the okra plant"
+       license="BHL Public Domain"
+       fit="contain"
+       url="https://www.biodiversitylibrary.org/pageImage/54044857">
 
 
 ## Section 3: Paragraph Seven
