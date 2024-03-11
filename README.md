@@ -57,12 +57,10 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 Pisonis, Guilelmi. “Belingela, Quigombo vel Alcea Muscata, et Gangila Sive Seramum.” Medici Amstelaedamensis De India utriusque re naturali et medica libri quatuordecim, quorum contenta pagina sequens exhibet (1658)
 
 <param ve-image
-       
        label="Quigombo" 
-       description="Image of the okra plant" 
+       description="Abelmoschus Esculentus" 
        license="public domain" 
-       url="https://www.biodiversitylibrary.org/pageImage/54044857">
-
+       url="https://www.biodiversitylibrary.org/pageImage/54044857Z">
 
 ## Section 3: Paragraph Seven
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
