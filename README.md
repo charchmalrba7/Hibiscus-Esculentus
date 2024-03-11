@@ -49,8 +49,14 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        url="https://i.pinimg.com/564x/26/8c/fe/268cfe0a92fdc3e141ba5c2e6be2f2b5.jpg">
 
 ## New Section: Second Image - Abelmoschus Esculentus
+
 <param ve-image 
-       url=“https://live.staticflickr.com/4219/34800734330_1e2fc38c32_b.jpg”>
+       url=“https://live.staticflickr.com/4219/34800734330_1e2fc38c32_b.jpg”
+       label= “Curtis Botanical Magazine”
+       description= “Image of hibiscus flower”
+       license=“Public Domain”
+       fit=“contain”>
+
 
 
 ## Section 3: Paragraph Seven
