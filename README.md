@@ -57,7 +57,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        license=“Public Domain”
        fit=“contain”>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/biodivlibrary/34800734330/in/photolist-V2dRSS-dJytdf-q2xyND" title="n51_w1150"><img src="https://live.staticflickr.com/4219/34800734330_29b6f63c1f_3k.jpg" width="1798" height="3072" alt="n51_w1150"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/biodivlibrary/34800734330/in/photolist-V2dRSS-dJytdf-q2xyND" title="n51_w1150"><img src="https://live.staticflickr.com/4219/34800734330_29b6f63c1f_3k.jpg" width="500" height="500" alt="n51_w1150"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
