@@ -57,7 +57,7 @@ Incorporate image -- hopefully it will appear below:
        description=“Image of the okra plant”
        license=“BHL Public Domain”
        fit=“contain”
-       url=“https://www.biodiversitylibrary.org/pageImage/54044857.jpg”>
+       url=“https://www.biodiversitylibrary.org/pageImage/54044857”>
 
 
 ## Section 3: Paragraph Seven
