@@ -17,7 +17,12 @@
 
 <param ve-image 
        title="Abelmoschus Esculentus" 
-       url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410">
+       url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
+       label="Apollo and Daphne" 
+       description="sculpture by Gian Lorenzo Bernini"
+       license="CC BY-SA 4.0"
+       region="contain">
+
 
 # Meeting The Okra
 Giving the Okra a voice teehee. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Pulvinar neque laoreet suspendisse interdum consectetur. Tempor commodo ullamcorper a lacus vestibulum sed arcu non odio. Mattis molestie a iaculis at erat. Lectus nulla at volutpat diam ut venenatis tellus. Tortor posuere ac ut consequat semper viverra. Dignissim sodales ut eu sem integer vitae. Ac odio tempor orci dapibus ultrices in iaculis. Neque vitae tempus quam pellentesque nec nam. Sodales ut etiam sit amet nisl purus in mollis. Facilisis sed odio morbi quis commodo odio aenean sed. Vel quam elementum pulvinar etiam non quam lacus suspendisse. Consectetur adipiscing elit ut aliquam. Turpis tincidunt id aliquet risus feugiat in. At auctor urna nunc id cursus. Massa tincidunt nunc pulvinar sapien et. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Aliquam malesuada bibendum arcu vitae elementum curabitur.
