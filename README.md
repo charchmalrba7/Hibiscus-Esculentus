@@ -78,7 +78,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="Okra A"
-       url="https://i.pinimg.com/564x/84/b6/d3/84b6d39db2cc661434b0421ae35827ee.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_fruit_opened.jpg">
 
 ## Section 4: Paragraph Eleven
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
@@ -89,7 +89,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        label= “okra fruit opened ”
        description= “Okra pearls by H. Alexander Taibot”
        license=“CC BY 2.0 ”
-       url=“https://upload.wikimedia.org/wikipedia/commons/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg”>
+       url=“https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_fruit_opened.jpg”>
 
 Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
 <param ve-image 
