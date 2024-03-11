@@ -51,15 +51,11 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 ## New Section: Second Image - Abelmoschus Esculentus
 
 <param ve-image 
-       url=“https://live.staticflickr.com/4219/34800734330_1e2fc38c32_b.jpg”
+       url=“https://www.archive.org/download/mobot31753002719711/page/n51_w284”
        label= “Curtis Botanical Magazine”
        description= “Image of hibiscus flower”
        license=“Public Domain”
        fit=“contain”>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/biodivlibrary/34800734330/in/photolist-V2dRSS-dJytdf-q2xyND" title="n51_w1150"><img src="https://live.staticflickr.com/4219/34800734330_29b6f63c1f_3k.jpg" width="500" height="500" alt="n51_w1150"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 
 ## Section 3: Paragraph Seven
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
