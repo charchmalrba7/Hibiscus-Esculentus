@@ -69,7 +69,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        label= “okra fruit opened ”
        description= “Okra pearls by H. Alexander Taibot”
        license=“CC BY 2.0 ”
-        url=“https://upload.wikimedia.org/wikipedia/commons/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg”
+       url=“https://upload.wikimedia.org/wikipedia/commons/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg”
        
        
 
