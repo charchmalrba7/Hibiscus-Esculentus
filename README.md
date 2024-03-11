@@ -51,7 +51,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 ## New Section: Second Image - Abelmoschus Esculentus
 New Text, Next Text, Next Text -- This may not work, but here it goes.
 Incorporate image -- hopefully it will appear below:
-<param ve-image 
+<param ve-image
        title="Abelmoschus Esculentus"
        label="Quigombo"
        description="Image of the okra plant"
