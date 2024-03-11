@@ -85,7 +85,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 
  ### New Section:third Image -  Okra Abelmoschus Esculentus fruit opened
 <param ve-image
-        url=“https://upload.wikimedia.org/wikipedia/commons/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg”
+        url=“https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_fruit_opened.jpg”
        label= “okra fruit opened ”
        description= “Okra pearls by H. Alexander Taibot”
        license=“CC BY 2.0 ”
