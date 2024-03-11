@@ -18,10 +18,10 @@
 <param ve-image 
        title="Abelmoschus Esculentus" 
        url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
-       label="Apollo and Daphne" 
-       description="sculpture by Gian Lorenzo Bernini"
+       label="Flora von Deutschland" 
+       description="Botanical illustration from Thomé's Natural History"
        license="CC BY-SA 4.0"
-       region="contain">
+       region="-172,94,862,701">
 
 
 # Meeting The Okra
