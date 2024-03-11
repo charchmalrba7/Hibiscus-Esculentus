@@ -56,7 +56,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        description=“Image of the okra plant”
        license=“BHL Public Domain”
        fit=“contain”
-       url=“https://www.biodiversitylibrary.org/pageImage/54044857”>
+       url=“https://www.biodiversitylibrary.org/pageImage/477040”>
 
 
 ## Section 3: Paragraph Seven
