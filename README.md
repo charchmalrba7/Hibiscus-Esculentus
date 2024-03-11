@@ -58,7 +58,7 @@ Pisonis, Guilelmi. “Belingela, Quigombo vel Alcea Muscata, et Gangila Sive Ser
 <param ve-image
        label="Quigombo" 
        description="Abelmoschus Esculentus" 
-       license="public domain" 
+       license="BHL Public Domain" 
        url="https://www.biodiversitylibrary.org/pageImage/54044857Z">
 
 ## Section 3: Paragraph Seven
