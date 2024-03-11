@@ -49,8 +49,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        url="https://i.pinimg.com/564x/26/8c/fe/268cfe0a92fdc3e141ba5c2e6be2f2b5.jpg">
 
 ## New Section: Second Image - Abelmoschus Esculentus
-New Text, Next Text, Next Text -- This may not work, but here it goes.
-Incorporate image -- hopefully it will appear below:
+Pisonis, Guilelmi. “Belingela, Quigombo vel Alcea Muscata, et Gangila Sive Seramum.” Medici Amstelaedamensis De India utriusque re naturali et medica libri quatuordecim, quorum contenta pagina sequens exhibet (1658)
 <param ve-image
        title="Abelmoschus Esculentus"
        label="Quigombo"
