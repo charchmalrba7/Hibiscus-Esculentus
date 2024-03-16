@@ -141,7 +141,7 @@ okra fruits open ac tincidunt vitae semper quis lectus nulla. Tristique senectus
        label="Hibiscus esculentus L." 
        description="Société Nationale d'Horticulture de France, Paris, France" 
        license="public domain" 
-       url="[https://upload.wikimedia.org/wikipedia/commons/b/b6/Okra_%28Abelmoschus_esculentus%29_fruit_opened.jpg](http://www.plantillustrations.org/ILLUSTRATIONS_FULL_SIZE_/315344.jpg)">
+       url="(http://www.plantillustrations.org/ILLUSTRATIONS_FULL_SIZE_/315344.jpg)">
 
 
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
