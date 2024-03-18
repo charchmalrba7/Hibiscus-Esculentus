@@ -47,7 +47,7 @@ La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of app
 
 <param ve-map center="Q27230" zoom="9.5" prefer-geojson>
 <param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/7/70/Gnawia_of_La_Marsa_%28Tunisia%29.JPG"
+url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
 coords="36.8790882, 10.3276780"
 size="512, 328" 
 circle="true">
