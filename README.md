@@ -43,7 +43,7 @@ Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium
 <param ve-map center="Q1588" zoom="7" prefer-geojson>
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
-coords="41.89293, 12.49058"
+coords="30.1843,-90.4779"
 size="512, 328" 
 circle="true">
 
