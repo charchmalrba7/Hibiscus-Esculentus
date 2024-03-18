@@ -74,7 +74,7 @@ According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833,
 	show-labels
 	stroke-width="0">
 
-### La Marsa: Mary
+### La Marsa: Malek
 La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein. 
 
 <param ve-map center="Q27230" zoom="9.5" prefer-geojson>
