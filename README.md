@@ -35,10 +35,10 @@ Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389
 	Title="Okro in Anambra State, Nigeria"
 	show-labels>
   <param ve-map-marker
-	   url="https://upload.wikimedia.org/wikipedia/commons/1/18/Okra_with_meat_and_fish.jpg"
-	   coords="6.2622, 6.9865"
-	   size="512, 328"
-	   circle="true">
+	url="https://upload.wikimedia.org/wikipedia/commons/1/18/Okra_with_meat_and_fish.jpg"
+	coords="6.2622, 6.9865"
+	size="512, 328"
+	circle="true">
     
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
@@ -64,16 +64,16 @@ According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833,
        zoom="7"
        Title="New Orleans"
        prefer-geojson>
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
+	coords="29.9296054, -90.0844053"
+	size="512, 328" 
+	circle="true">
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/charchmalrba7/Hibiscus-Esculentus/main/Allie's%20Map%20Marker"
 	show-labels
 	stroke-width="0">
- <param ve-map-marker
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
-	coords="7.4333, 3.2833"
-	size="512, 328" 
-	circle="true">
- 
+
 ### La Marsa: Mary
 La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein. 
 
