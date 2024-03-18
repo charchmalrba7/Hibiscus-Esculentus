@@ -70,7 +70,7 @@ According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833,
 	stroke-width="0">
  <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
-	coords="30.1843,-90.4779"
+	coords="7.4333, 3.2833"
 	size="512, 328" 
 	circle="true">
  
