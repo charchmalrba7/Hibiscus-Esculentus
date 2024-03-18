@@ -57,6 +57,13 @@ coords="36.8790882, 10.3276780"
 size="512, 328" 
 circle="true">
 
+<param ve-map center="Q27230" zoom="9.5" prefer-geojson>
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg"
+coords="36.8790882, 10.3276780"
+size="512, 328" 
+circle="true">
+
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="Cutie Pooties"
