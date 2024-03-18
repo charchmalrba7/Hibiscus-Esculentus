@@ -43,22 +43,22 @@ Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="William Curtis, 1814-15"
-       url="https://ia800602.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719711&itemPath=%2F28%2Fitems%2Fmobot31753002719711&server=ia800602.us.archive.org&page=n51_w465">
+       url="https://ia800602.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719711&itemPath=%2F28%2Fitems%2Fmobot31753002719711&server=ia800602.us.archive.org&page=n51_w381">
 
-According to Chris Smith (2019),  <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
+According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
 <param ve-map
 	center="7.4333, 3.2833"
 	zoom="2"
 	Title="Oloronbo, Ibarapa Central, Oyo State, Nigeria,"
 	show-labels>
   <param ve-map-marker
-	   url="https://upload.wikimedia.org/wikipedia/commons/4/43/Okra_seafood_stew.jpg"
-	   coords="7.4333, 3.2833"
-	   size="512, 328"
-	   circle="true">
+	url="https://upload.wikimedia.org/wikipedia/commons/4/43/Okra_seafood_stew.jpg"
+	coords="7.4333, 3.2833"
+	size="512, 328"
+	circle="true">
 
 ## Section 2: Allie's Map
-Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
+<span data-mouseover-map-flyto=" 29.9461665, -90.0784417, 5"> NOLA Garden District</span> Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
 <param ve-map
        center="30.1843,-90.4779"
        zoom="7"
