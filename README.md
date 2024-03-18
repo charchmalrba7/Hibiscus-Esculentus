@@ -35,7 +35,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        title="William Curtis, 1814-15"
        url="https://ia800602.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719711&itemPath=%2F28%2Fitems%2Fmobot31753002719711&server=ia800602.us.archive.org&page=n51_w465">
 
-Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Ac ut consequat semper viverra nam libero justo. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Turpis egestas sed tempus urna et pharetra. Justo nec ultrices dui sapien eget mi proin. Nisi porta lorem mollis aliquam ut porttitor. Non curabitur gravida arcu ac tortor dignissim convallis. In vitae turpis massa sed elementum tempus egestas sed. Eros donec ac odio tempor orci dapibus ultrices in. Euismod nisi porta lorem mollis aliquam.
+According to Chris Smith (2019),  Igbo-Ora which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria. Turpis egestas sed tempus urna et pharetra. Justo nec ultrices dui sapien eget mi proin. Nisi porta lorem mollis aliquam ut porttitor. Non curabitur gravida arcu ac tortor dignissim convallis. In vitae turpis massa sed elementum tempus egestas sed. Eros donec ac odio tempor orci dapibus ultrices in. Euismod nisi porta lorem mollis aliquam.
 <param ve-map center="Q5991559" zoom="8" prefer-geojson>
 
 ## Section 2: Paragraph Four
