@@ -186,7 +186,7 @@ Abelmoschus moschatus collected in  Auckland institute and   museum Herbarium on
        url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
        region="-583,1,4167,3988">
 
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
+Something about <span data-mouseover-image-zoomto="280,110,2286,2009"> Okra </span>.
 <param ve-image       	url="http://www.plantillustrations.org/pageImage/illustration.phpid_illustration=315344&id_taxon=15580&mobile=0&SID=ank2srcdcd9ln7rnfs5a856t6b&language=English&thumbnails_selectable=0&selected_thumbnail=0&query_type=species&query_broad_or_restricted=broad&group=0&lay_out=0&uhd=0"
 label="Okra Pic For Mary"
 description="Showing a pic of a okra"
