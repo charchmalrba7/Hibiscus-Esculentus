@@ -47,7 +47,7 @@ coords="30.1843,-90.4779"
 size="512, 328" 
 circle="true">
 <param ve-map-layer geojson
-	url=https://github.com/allisonamber/map-thingy/blob/main/README.md
+	url=https://github.com/allisonamber/map-thingy/blob/main/README.md>
 
 ###New Section
 ###La Marsa
