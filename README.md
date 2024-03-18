@@ -171,7 +171,7 @@ Abelmoschus moschatus collected in  Auckland institute and   museum Herbarium on
 
 <param ve-image
        label="Abelmoschus moschatus Medik" 
-       description=" 29068 Abelmoschus moschatus Medike" 
+       description="29068 Abelmoschus moschatus Medike" 
        license="CCBY" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg"
        region="-583,1,4167,3988">
