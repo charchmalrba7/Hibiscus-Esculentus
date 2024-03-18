@@ -27,7 +27,8 @@
 # Meeting The Okra
 Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389">Seeds broh</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Pulvinar neque laoreet suspendisse interdum consectetur. Tempor commodo ullamcorper a lacus vestibulum sed arcu non odio. Mattis molestie a iaculis at erat. Lectus nulla at volutpat diam ut venenatis tellus. Tortor posuere ac ut consequat semper viverra. Dignissim sodales ut eu sem integer vitae. Ac odio tempor orci dapibus ultrices in iaculis. Neque vitae tempus quam pellentesque nec nam. Sodales ut etiam sit amet nisl purus in mollis. Facilisis sed odio morbi quis commodo odio aenean sed. Vel quam elementum pulvinar etiam non quam lacus suspendisse. Consectetur adipiscing elit ut aliquam. Turpis tincidunt id aliquet risus feugiat in. At auctor urna nunc id cursus. Massa tincidunt nunc pulvinar sapien et. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Aliquam malesuada bibendum arcu vitae elementum curabitur.
 
-Anambra is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the specie. Turpis egestas sed tempus urna et pharetra. Justo nec ultrices dui sapien eget mi proin. Nisi porta lorem mollis aliquam ut porttitor. Non curabitur gravida arcu ac tortor dignissim convallis. In vitae turpis massa sed elementum tempus egestas sed. Eros donec ac odio tempor orci dapibus ultrices in. Euismod nisi porta lorem mollis aliquam.
+###Mary's Okra Map
+<span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the specie. 
 <param ve-map
 	center="6.2622, 6.9865"
 	zoom="2"
@@ -38,12 +39,14 @@ Anambra is said to be known for five different species of the okra plant. These 
 	   coords="6.2622, 6.9865"
 	   size="512, 328"
 	   circle="true">
+
+
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="William Curtis, 1814-15"
        url="https://ia800602.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719711&itemPath=%2F28%2Fitems%2Fmobot31753002719711&server=ia800602.us.archive.org&page=n51_w465">
 
-According to Chris Smith (2019),  Igbo-Ora which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria. Turpis egestas sed tempus urna et pharetra. Justo nec ultrices dui sapien eget mi proin. Nisi porta lorem mollis aliquam ut porttitor. Non curabitur gravida arcu ac tortor dignissim convallis. In vitae turpis massa sed elementum tempus egestas sed. Eros donec ac odio tempor orci dapibus ultrices in. Euismod nisi porta lorem mollis aliquam.
+According to Chris Smith (2019),  Igbo-Ora which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
 <param ve-map center="Q5991559" zoom="8" prefer-geojson>
 
 ## Section 2: Paragraph Four
