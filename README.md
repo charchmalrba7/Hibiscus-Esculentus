@@ -39,8 +39,7 @@ Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389
 	   coords="6.2622, 6.9865"
 	   size="512, 328"
 	   circle="true">
-
-
+    
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="William Curtis, 1814-15"
@@ -58,7 +57,7 @@ According to Chris Smith (2019),  <span data-mouseover-map-flyto="7.4333, 3.2833
 	   size="512, 328"
 	   circle="true">
 
-## Section 2: Paragraph Four
+## Section 2: Allie's Map
 Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
 <param ve-map
        center="30.1843,-90.4779"
@@ -74,9 +73,8 @@ Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium
 	coords="30.1843,-90.4779"
 	size="512, 328" 
 	circle="true">
-
-### New Section
-### La Marsa
+ 
+### La Marsa: Mary
 La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqet gnaouia, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein. 
 
 <param ve-map center="Q27230" zoom="9.5" prefer-geojson>
@@ -107,8 +105,6 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        license="BHL Public Domain"
        region=0,2073,3317,2376>
 
-       
-
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="nom nom"
@@ -124,7 +120,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        title="Okra A"
        url="https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_fruit_opened.jpg">
 
-### Gumbo( Hibiscus esculentus L) Paragraph Eleven
+### Gumbo( Hibiscus esculentus L)
 This is Okra also known as Gumbo  and referenced as Hibscus esculentus. This Okra belongs to the Malvaceae family. This image shows the variant size of okra. in vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 
 <param ve-image
@@ -170,7 +166,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        title="i speak for the trees"
        url="https://i.pinimg.com/564x/36/5d/4c/365d4cd0f311d03b2da186dab9bb1c13.jpg">
 
-## Section 6: okra Abemelochus esculentus fruits open 
+## Section 6: okra Abemelochus esculentus fruits open, Malek 
 Abelmoschus moschatus collected in  Auckland institute and   museum Herbarium on 3rd of April 1906 and was published in a public domain on the 29 Mar 2012 et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 
 <param ve-image
