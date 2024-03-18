@@ -45,7 +45,7 @@ Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium
 ###La Marsa
 La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqa ganawiya, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein. 
 
-<param ve-map center="Q27230" zoom="7" prefer-geojson>
+<param ve-map center="Q27230" zoom="9.5" prefer-geojson>
 
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
@@ -56,11 +56,6 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 <param ve-image
        title="chicken nug"
        url="https://i.pinimg.com/564x/26/8c/fe/268cfe0a92fdc3e141ba5c2e6be2f2b5.jpg">
-
-###La Marsa
-La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqa ganawiya, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein. 
-
-<param ve-map center="Q27230" zoom="11" prefer-geojson>
 
 ## Section 3: Paragraph Seven
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
