@@ -56,7 +56,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
 La Marsa (also known as El Marsa) is a suburb of Tunis, is a coastal town of approximately 100,000 people. It is famous in Tunisia for its regional dish marqa ganawiya, a spicy tomato based stew eaten with bread that pairs small okra with some sort of protein. 
 
 <param ve-map 
-center=”36.8790882, 10.3276780”
+center=”Q27230”
 zoom=”5”
 Title=”Map of La Marsa, Tunisia”
 show-labels>
