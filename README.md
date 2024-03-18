@@ -33,6 +33,11 @@ Anambra is said to be known for five different species of the okra plant. These 
 	zoom="2"
 	Title="Okro in Anambra State, Nigeria"
 	show-labels>
+  <param ve-map-marker
+	   url="https://upload.wikimedia.org/wikipedia/commons/1/18/Okra_with_meat_and_fish.jpg"
+	   coords="6.2622, 6.9865"
+	   size="512, 328"
+	   circle="true">
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="William Curtis, 1814-15"
