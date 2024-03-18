@@ -7,14 +7,6 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/3/32/Okra_%28Abelmoschus_esculentus%29_%283%29.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
 <param ve-image 
        title="Abelmoschus Esculentus" 
        url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
@@ -22,7 +14,6 @@
        description="Botanical illustration from Thomé's Natural History"
        license="CC BY-SA 4.0"
        region="-172,94,862,701">
-
 
 # Meeting The Okra
 Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389">Seeds broh</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Pulvinar neque laoreet suspendisse interdum consectetur. Tempor commodo ullamcorper a lacus vestibulum sed arcu non odio. Mattis molestie a iaculis at erat. Lectus nulla at volutpat diam ut venenatis tellus. Tortor posuere ac ut consequat semper viverra. Dignissim sodales ut eu sem integer vitae. Ac odio tempor orci dapibus ultrices in iaculis. Neque vitae tempus quam pellentesque nec nam. Sodales ut etiam sit amet nisl purus in mollis. Facilisis sed odio morbi quis commodo odio aenean sed. Vel quam elementum pulvinar etiam non quam lacus suspendisse. Consectetur adipiscing elit ut aliquam. Turpis tincidunt id aliquet risus feugiat in. At auctor urna nunc id cursus. Massa tincidunt nunc pulvinar sapien et. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Aliquam malesuada bibendum arcu vitae elementum curabitur.
@@ -177,7 +168,7 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        title="i speak for the trees"
        url="https://i.pinimg.com/564x/36/5d/4c/365d4cd0f311d03b2da186dab9bb1c13.jpg">
 
-## Section 6: okra Abemelochus esculentus fruits open, Malek 
+## Section 6: okra Abemelochus esculentus fruits open, 
 Abelmoschus moschatus collected in  Auckland institute and   museum Herbarium on 3rd of April 1906 and was published in a public domain on the 29 Mar 2012 et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget. <span data-mouseover-map-flyto="672,600,1737,1662, 7"> Leaf Variations</span> 
 <param ve-image
        label="Abelmoschus moschatus Medik" 
