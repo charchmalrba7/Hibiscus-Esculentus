@@ -46,8 +46,17 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        title="William Curtis, 1814-15"
        url="https://ia800602.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719711&itemPath=%2F28%2Fitems%2Fmobot31753002719711&server=ia800602.us.archive.org&page=n51_w465">
 
-According to Chris Smith (2019),  Igbo-Ora which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
-<param ve-map center="Q5991559" zoom="8" prefer-geojson>
+According to Chris Smith (2019),  <span data-mouseover-map-flyto="7.4333, 3.2833, 7"> Igbo Ora</span> which is a city  located in Ibarapa  central of Oyo state  has a history of multiple twins. History has it that this is as a result of numerous take of Okra in this part of the south western Nigeria.
+<param ve-map
+	center="7.4333, 3.2833"
+	zoom="2"
+	Title="Oloronbo, Ibarapa Central, Oyo State, Nigeria,"
+	show-labels>
+  <param ve-map-marker
+	   url="https://upload.wikimedia.org/wikipedia/commons/4/43/Okra_seafood_stew.jpg"
+	   coords="7.4333, 3.2833"
+	   size="512, 328"
+	   circle="true">
 
 ## Section 2: Paragraph Four
 Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
