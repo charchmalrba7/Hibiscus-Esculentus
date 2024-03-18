@@ -84,6 +84,17 @@ coords="36.8790882, 10.3276780"
 size="512, 328" 
 circle="true">
 
+### Interactive Map of La Marsa
+<param ve-map
+center="36.89054761602349, 10.322687034859703"
+zoom="5"
+Title="La Marsa Map"
+prefer-geojson>
+<param ve-map-layer geojson
+url="https://github.com/charchmalrba7/Hibiscus-Esculentus/blob/bac965c0a20476ef4094dd30c6e570be48a3af24/TestingMap.json"
+show-labels
+stroke-width="0">
+
 Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
 <param ve-image
        title="Cutie Pooties"
