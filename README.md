@@ -16,10 +16,10 @@
        region="-172,94,862,701">
 
 # Meeting The Okra
-Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389">Seeds broh</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Pulvinar neque laoreet suspendisse interdum consectetur. Tempor commodo ullamcorper a lacus vestibulum sed arcu non odio. Mattis molestie a iaculis at erat. Lectus nulla at volutpat diam ut venenatis tellus. Tortor posuere ac ut consequat semper viverra. Dignissim sodales ut eu sem integer vitae. Ac odio tempor orci dapibus ultrices in iaculis. Neque vitae tempus quam pellentesque nec nam. Sodales ut etiam sit amet nisl purus in mollis. Facilisis sed odio morbi quis commodo odio aenean sed. Vel quam elementum pulvinar etiam non quam lacus suspendisse. Consectetur adipiscing elit ut aliquam. Turpis tincidunt id aliquet risus feugiat in. At auctor urna nunc id cursus. Massa tincidunt nunc pulvinar sapien et. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Aliquam malesuada bibendum arcu vitae elementum curabitur.
+Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389">Seeds broh</span> 
 
 ## Mary's Okra Map
-<span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the specie. 
+<span data-mouseover-map-flyto="6.2622, 6.9865, 7"> Anambra</span> is said to be known for five different species of the okra plant. These species are are grown across the different localities in the state.some are said to be more slippery than the other according to the species. 
 <param ve-map
 	center="6.2622, 6.9865"
 	zoom="2"
@@ -31,7 +31,7 @@ Giving the Okra a voice teehee. <span data-mouseover-image-zoomto="72,84,416,389
 	size="512, 328"
 	circle="true">
     
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
+sample text.
 <param ve-image
        title="William Curtis, 1814-15"
        url="https://ia800602.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719711&itemPath=%2F28%2Fitems%2Fmobot31753002719711&server=ia800602.us.archive.org&page=n51_w381">
@@ -49,7 +49,7 @@ According to Chris Smith (2019), <span data-mouseover-map-flyto="7.4333, 3.2833,
 	circle="true">
 
 ## Section 2: Allie's Map
-<span data-mouseover-map-flyto="29.9461665, -90.0784417, 10"> NOLA Garden District</span> Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
+<span data-mouseover-map-flyto="29.9461665, -90.0784417, 10"> NOLA Garden District</span> 
 <param ve-map
        center="30.1843,-90.4779"
        zoom="7"
@@ -86,18 +86,8 @@ url="https://github.com/charchmalrba7/Hibiscus-Esculentus/blob/bac965c0a20476ef4
 show-labels
 stroke-width="0">
 
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="Cutie Pooties"
-       url="https://i.pinimg.com/564x/79/5f/65/795f6521670aeba6276a25f5d72f5500.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="chicken nug"
-       url="https://i.pinimg.com/564x/26/8c/fe/268cfe0a92fdc3e141ba5c2e6be2f2b5.jpg">
-
 ## Section 3: Paragraph Seven
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
+sample text.
 
 <param ve-image 
        title="Abelmoschus Esculentus" 
@@ -107,66 +97,22 @@ Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senec
        license="BHL Public Domain"
        region=0,2073,3317,2376>
 
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="nom nom"
-       url="https://i.pinimg.com/564x/55/c8/e9/55c8e9af6e6b778830ef3200e66cf556.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="womp"
-       url="https://i.pinimg.com/564x/bb/75/b6/bb75b6e7a8a6dff710e2e8c842c05761.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
+sample text.
 <param ve-image
        title="Okra A"
        url="https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_fruit_opened.jpg">
 
 ## Gumbo( Hibiscus esculentus L)
-This is Okra also known as Gumbo  and referenced as Hibscus esculentus. This Okra belongs to the Malvaceae family. This image shows the variant size of okra. in vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
+This is Okra also known as Gumbo and referenced as Hibscus esculentus. This Okra belongs to the Malvaceae family. This image shows the variant size of okra.
 
 <param ve-image
       label="Gumbo Hibiscus esculentus L" 
        description="Société Nationale d'Horticulture de France, Paris, France" 
        license="public domain" 
        url="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/315344.jpg">
-     
-Proin fermentum leo vel orci porta non pulvinar neque. Eu turpis egestas pretium aenean pharetra magna. Nunc sed id semper risus in hendrerit gravida rutrum. Sapien faucibus et molestie ac feugiat sed lectus. Id nibh tortor id aliquet lectus proin nibh. Curabitur vitae nunc sed velit. Massa tempor nec feugiat nisl pretium fusce. Pellentesque dignissim enim sit amet venenatis urna. Nisi vitae suscipit tellus mauris a. Non tellus orci ac auctor augue mauris augue neque. Morbi tempus iaculis urna id volutpat lacus laoreet. In tellus integer feugiat scelerisque varius morbi enim. Id semper risus in hendrerit gravida rutrum quisque non tellus. Congue eu consequat ac felis. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim ut tellus elementum sagittis.[^1]
-<param ve-image 
-       title="oowee" 
-       url="https://i.pinimg.com/564x/96/1d/94/961d94b02c711b0c61dc4f120a6c5c3d.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="eheh"
-       url="https://i.pinimg.com/564x/6e/56/b5/6e56b542654be546ccbb48a3cf9eb1fd.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="fruit"
-       url="https://i.pinimg.com/564x/32/eb/a8/32eba85e8b70994b42cc7eaddff12493.jpg">
 
 ## Section 5: Paragraph Fifteen
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="olaf"
-       url="https://i.pinimg.com/564x/07/77/23/0777239ec9cd73a43c44c9a3a1861425.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="slurp"
-       url="https://i.pinimg.com/564x/55/70/c8/5570c8ad2082749cc6edb6563a5d2a2b.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-
-<param ve-image
-       title="woo"
-       url="https://i.pinimg.com/564x/c5/67/80/c56780005ed7c6b321b0ef884710f7f6.jpg">
-
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="i speak for the trees"
-       url="https://i.pinimg.com/564x/36/5d/4c/365d4cd0f311d03b2da186dab9bb1c13.jpg">
+sample text. 
 
 ## Section 6: okra Abemelochus esculentus fruits open, 
 Abelmoschus moschatus collected in  Auckland institute and   museum Herbarium on 3rd of April 1906 and was published in a public domain on the 29 Mar 2012 et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget. <span data-mouseover-map-flyto="672,600,1737,1662, 7"> Leaf Variations</span> 
@@ -184,10 +130,6 @@ label="Okra Pic For Mary"
 description="Showing a pic of a okra"
 license="public domain">
 
-Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada fames ac turpis egestas. Mattis rhoncus urna neque viverra justo nec ultrices dui. Posuere ac ut consequat semper viverra nam. Maecenas pharetra convallis posuere morbi. In fermentum posuere urna nec tincidunt praesent semper. Dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Amet volutpat consequat mauris nunc congue nisi. Nibh tellus molestie nunc non. Justo nec ultrices dui sapien eget.
-<param ve-image
-       title="heyyy"
-       url="https://i.pinimg.com/564x/c0/c7/2a/c0c72a869bf41e2d0b9fbd4f2c8cee67.jpg">
 
 ## Multiple viewers
 
